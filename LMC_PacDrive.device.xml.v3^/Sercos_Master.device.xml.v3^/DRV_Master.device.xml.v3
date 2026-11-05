@@ -1430,7 +1430,7 @@ Text
                     <Single Name="Default" Type="string">J_Load</Single>
                   </Single>
                   <Single Name="Identifier" Type="string">37</Single>
-                  <Single Name="Value" Type="string">0.0</Single>
+                  <Single Name="Value" Type="string">5.0</Single>
                   <Single Name="Type" Type="string">REAL</Single>
                   <Single Name="Default" Type="string">0.0</Single>
                 </Single>
