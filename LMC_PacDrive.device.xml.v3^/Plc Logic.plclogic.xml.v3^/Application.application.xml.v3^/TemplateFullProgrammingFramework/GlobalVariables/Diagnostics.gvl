@@ -1,0 +1,16 @@
+__METADATA__
+{
+  "v3Meta": {
+    "objectGuid": "bbaf2d5f-2fd5-41f4-b732-691a43e26459",
+    "objectTypeGuid": "ffbfa93a-b94d-45fc-a329-229860183b1d",
+    "embeddedObjectTypeGuids": [
+      "a9ed5b7e-75c5-4651-af16-d2c27e98cb94"
+    ],
+    "properties": {},
+    "subObjects": {}
+  }
+}
+__DECLARATION__
+VAR_GLOBAL
+	G_stDiagnosticsToApplicationMarkerarea AT %MB0 : TPL.ST_DiagnosticsToApplicationMarkerArea;
+END_VAR

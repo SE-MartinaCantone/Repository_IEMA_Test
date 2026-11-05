@@ -1,0 +1,25 @@
+__METADATA__
+{
+  "v3Meta": {
+    "objectGuid": "2b76d58c-c67a-436d-96c1-d0d808ac0d2c",
+    "objectTypeGuid": "2db5746d-d284-4425-9f7f-2663a34b0ebc",
+    "embeddedObjectTypeGuids": [
+      "a9ed5b7e-75c5-4651-af16-d2c27e98cb94"
+    ],
+    "properties": {},
+    "subObjects": {}
+  }
+}
+__DECLARATION__
+TYPE ST_ExampleLeafModuleInterface :
+STRUCT
+	i_ifDrive						: SystemConfigurationItf.IF_Drive;
+	i_lrPosMin						: LREAL;
+	i_lrPosMax						: LREAL;
+	i_xInitHoming					: BOOL;
+	i_xEnableRandomExceptionTrigger	: BOOL;
+	
+	q_xValue						: BOOL := FALSE;
+	q_etState						: ET_ExampleLeafModuleState := ET_ExampleLeafModuleState.Disabled;
+END_STRUCT
+END_TYPE

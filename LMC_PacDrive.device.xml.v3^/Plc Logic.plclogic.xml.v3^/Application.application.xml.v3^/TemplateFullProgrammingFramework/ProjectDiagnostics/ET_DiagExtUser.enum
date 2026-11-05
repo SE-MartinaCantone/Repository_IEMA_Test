@@ -1,0 +1,27 @@
+__METADATA__
+{
+  "v3Meta": {
+    "objectGuid": "77dd6827-1b4e-41bf-92ed-1aac87b69940",
+    "objectTypeGuid": "2db5746d-d284-4425-9f7f-2663a34b0ebc",
+    "embeddedObjectTypeGuids": [
+      "a9ed5b7e-75c5-4651-af16-d2c27e98cb94"
+    ],
+    "properties": {},
+    "subObjects": {}
+  }
+}
+__DECLARATION__
+{attribute 'qualified_only'}
+TYPE ET_DiagExtUser :
+(
+(* Minimum value +0 *)
+	Exception1FromEquipmentModule		:= 0,
+	Exception2FromEquipmentModule		:= 1,
+	
+	Exception1FromMain					:= 2,
+	Exception2FromMain					:= 3,
+	Exception3FromMain					:= 4,
+	Exception4FromMain					:= 5,
+	Exception5FromMain					:= 6
+)UDINT;
+END_TYPE

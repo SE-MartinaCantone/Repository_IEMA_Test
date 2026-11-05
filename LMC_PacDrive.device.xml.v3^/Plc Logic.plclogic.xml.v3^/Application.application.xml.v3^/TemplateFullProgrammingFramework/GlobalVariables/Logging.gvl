@@ -1,0 +1,18 @@
+__METADATA__
+{
+  "v3Meta": {
+    "objectGuid": "bd38482c-b0b6-4eb4-9e72-411412f2db78",
+    "objectTypeGuid": "ffbfa93a-b94d-45fc-a329-229860183b1d",
+    "embeddedObjectTypeGuids": [
+      "a9ed5b7e-75c5-4651-af16-d2c27e98cb94"
+    ],
+    "properties": {},
+    "subObjects": {}
+  }
+}
+__DECLARATION__
+VAR_GLOBAL
+	G_stLogDataList			: TPL.ST_LogDataList;			(* Global log data list *)
+	G_stLogDataListAscii	: TPL.ST_LogDataListAscii;		(* Temp.list for save in XML format *)
+	G_stLoggerInterface		: TPL.ST_LoggerInterface;		(* Interface between logger and main machine *)
+END_VAR
