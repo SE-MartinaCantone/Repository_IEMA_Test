@@ -8823,12 +8823,12 @@ Text
                   <Single Type="{b955cc99-aa13-473b-b43f-7c76a865c138}" Method="IArchivable">
                     <Single Name="Name" Type="{35cf7b1a-a4cd-490b-8ebe-385e61fcc6d9}" Method="IArchivable">
                       <Single Name="Namespace" Type="string">local</Single>
-                      <Single Name="Identifier" Type="string">Bitfield_VisibleName_nameENUM_SERCOS_WORKING_MODEvirtual_0</Single>
-                      <Single Name="Default" Type="string">virtual / 0</Single>
+                      <Single Name="Identifier" Type="string">Bitfield_VisibleName_nameENUM_SERCOS_WORKING_MODEreal_1</Single>
+                      <Single Name="Default" Type="string">real / 1</Single>
                     </Single>
                     <Single Name="Description" Type="{35cf7b1a-a4cd-490b-8ebe-385e61fcc6d9}" Method="IArchivable">
                       <Single Name="Namespace" Type="string">local</Single>
-                      <Single Name="Identifier" Type="string">Bitfield_Description_nameENUM_SERCOS_WORKING_MODEvirtual_0</Single>
+                      <Single Name="Identifier" Type="string">Bitfield_Description_nameENUM_SERCOS_WORKING_MODEreal_1</Single>
                       <Single Name="Default" Type="string">mode</Single>
                     </Single>
                     <Single Name="Identifier" Type="string">i_0</Single>
