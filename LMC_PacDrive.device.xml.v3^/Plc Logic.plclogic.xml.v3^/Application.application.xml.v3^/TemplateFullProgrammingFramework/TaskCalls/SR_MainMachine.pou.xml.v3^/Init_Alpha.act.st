@@ -24,3 +24,4 @@ SR_AlphaModule.RegisterLoggerPoint(	i_ifParent	:= fbLoggerPoint,
 									q_etDiagExt	=> );
 
 (* End of system generated code, could be modified for your application *)
+
