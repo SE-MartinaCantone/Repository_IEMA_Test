@@ -78,7 +78,7 @@ stSlave2Interface.stMain.i_xHwLimitNeg									:= FALSE;
 
 stSlave2Interface.stMain.stReducedVelocity.i_xEnableReducedVelocity		:= FALSE;
 stSlave2Interface.stMain.stReducedVelocity.i_xOnlyLimitCheck			:= FALSE;
-stSlave2Interface.stMain.stReducedVelocity.i_lrMaxReducedVelocity		:= 50.0;
+stSlave2Interface.stMain.stReducedVelocity.i_lrMaxReducedVelocity		:= 51.0;
 
 stSlave2Interface.stMain.i_xStart										:= FALSE;
 
